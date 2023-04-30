@@ -1,0 +1,20 @@
+.navStyle {
+    color: rgb(108, 106, 106);
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.active {
+    color: red;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.navStyle:hover {
+    color: white;
+    background-color: rgba(255, 7, 7, 0.475);
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0px 0px 20px rgba(255, 0, 0, 0.579);
+
+}
